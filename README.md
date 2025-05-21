@@ -62,7 +62,6 @@ Sign up and generate a free API key
 python
 Copy
 Edit
-WEATHER_API_KEY = 'your_openweathermap_api_key_here'
 3. 🚀 Run the Application
 Navigate to the folder and run:
 
